@@ -1,14 +1,15 @@
 ## LTFinderButtons
-My Finder buttons collection for Yosemite.
+My Finder buttons collection for El Capitan.
 
-![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/4991647/325d4cf8-69d1-11e4-9548-741b4668a7c2.png)
+![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/10337660/dd52b704-6d33-11e5-8907-c86453e2c8b3.png)
 
 ## Buttons
-- [x] Open in Terminal
-- [x] Open in TextMate
-- [x] Open in Sublime Text 3
-- [x] Open in Atom
-- [x] Open in Brackets
+- [x] Terminal
+- [x] TextMate
+- [x] Sublime Text
+- [x] Atom
+- [x] Brackets
+- [x] CotEditor 
 
 ## Usage
 Download the buttons and put them in a proper place. Hold on command button and drag each one into your Finder toolbar.
@@ -24,7 +25,7 @@ Download the buttons and put them in a proper place. Hold on command button and 
 
 
 ## Contacts
-Follow [Lex Tang](https://github.com/lexrus/) ([@lexrus on Twitter](https://twitter.com/lexrus/))
+[Lex Tang](https://github.com/lexrus/) ([@lexrus on Twitter](https://twitter.com/lexrus/))
 
 ## License
 This project is distributed under the terms and conditions of the MIT license.
