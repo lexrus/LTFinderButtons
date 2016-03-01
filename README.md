@@ -5,6 +5,7 @@ My Finder buttons collection for El Capitan.
 
 ## Buttons
 - [x] Terminal
+- [x] iTerm2 (2.9+)
 - [x] TextMate
 - [x] Sublime Text
 - [x] Atom
@@ -12,7 +13,7 @@ My Finder buttons collection for El Capitan.
 - [x] CotEditor 
 
 ## Usage
-Download the buttons and put them in a proper place. Hold on command button and drag each one into your Finder toolbar.
+Download or `git clone` the buttons in a proper place. Hold on command button and drag each one into your Finder toolbar.
 
 ## Contribute a button
 0. Fork this repo.
