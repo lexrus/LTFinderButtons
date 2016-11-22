@@ -1,16 +1,18 @@
 ## LTFinderButtons
-My Finder buttons collection for El Capitan.
+My Finder buttons collection for macOS.
 
-![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/10337660/dd52b704-6d33-11e5-8907-c86453e2c8b3.png)
+![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/20527688/43dea28e-b104-11e6-8c39-64747c10b232.png)
 
 ## Buttons
 - [x] Terminal
 - [x] iTerm2 (2.9+)
 - [x] TextMate
-- [x] Sublime Text
+- [x] Sublime Text 3
 - [x] Atom
 - [x] Brackets
-- [x] CotEditor 
+- [x] CotEditor
+- [x] BBEdit
+- [x] TextWrangler
 
 ## Usage
 Download or `git clone` the buttons in a proper place. Hold on command button and drag each one into your Finder toolbar.
@@ -20,9 +22,10 @@ Download or `git clone` the buttons in a proper place. Hold on command button an
 1. Duplicate TextMateFinderButton.app and rename it to MyShinnyFinderButton.app.
 2. Open `MyShinnyFinderButton.app/Contents/Resources/Scripts/main.scpt` with Script Editor then you gonna know what to do.
 3. Open LTFinderButtons.sketch and draw your button.
-4. Export the button from Sketch. Import it into Icon Composer. Export as a icns file.
-5. Replace `MyShinnyFinderButton.app/Contents/Resources/droplet.icns` with your icns.
-6. Send a pull request.
+4. Export the `iconset` folders from Sketch.
+5. Convert images into icns files one by one (e.g. `iconutil -c icns MyShinnyFinderButton.iconset`)
+6. Replace `MyShinnyFinderButton.app/Contents/Resources/droplet.icns` with your icns.
+7. Send a pull request.
 
 
 ## Contacts
