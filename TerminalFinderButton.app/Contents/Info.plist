@@ -48,5 +48,7 @@
 		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
+	<key>LSBackgroundOnly</key>
+	<true/>
 </dict>
 </plist>

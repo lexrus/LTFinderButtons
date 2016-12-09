@@ -55,5 +55,7 @@
 		<key>selectedTabView</key>
 		<string>result</string>
 	</dict>
+	<key>LSBackgroundOnly</key>
+	<true/>
 </dict>
 </plist>
