@@ -1,7 +1,7 @@
 ## LTFinderButtons
 My Finder buttons collection for macOS.
 
-![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/20527688/43dea28e-b104-11e6-8c39-64747c10b232.png)
+![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/21391457/c4c27c62-c7c6-11e6-9271-860658873934.png)
 
 ## Buttons
 - [x] Terminal
@@ -13,6 +13,7 @@ My Finder buttons collection for macOS.
 - [x] CotEditor
 - [x] BBEdit
 - [x] TextWrangler
+- [x] VSCode
 
 ## Usage
 Download or `git clone` the buttons in a proper place. Hold on command button and drag each one into your Finder toolbar.

@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
-	<string>applet</string>
+	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.ScriptEditor.id.OpenInTerminal</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -22,6 +22,8 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -34,7 +36,7 @@
 		<key>bundleDividerCollapsed</key>
 		<true/>
 		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
+		<real>0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -44,11 +46,9 @@
 		<key>positionOfDivider</key>
 		<real>621</real>
 		<key>savedFrame</key>
-		<string>1204 201 901 872 0 0 2560 1417 </string>
+		<string>1723 306 901 872 0 0 2560 1418 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
-	<key>LSBackgroundOnly</key>
-	<true/>
 </dict>
 </plist>

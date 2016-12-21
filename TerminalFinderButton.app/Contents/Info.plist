@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
-	<string>applet</string>
+	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.ScriptEditor.id.OpenInTerminal</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -34,7 +34,7 @@
 		<key>bundleDividerCollapsed</key>
 		<true/>
 		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
+		<real>0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
