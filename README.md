@@ -20,7 +20,7 @@ Download or `git clone` the buttons in a proper place. Hold on command button an
 
 ## Contribute a button
 0. Fork this repo.
-1. Duplicate TextMateFinderButton.app and rename it to MyShinnyFinderButton.app.
+1. Duplicate iTerm2FinderButton.app and rename it to MyShinnyFinderButton.app.
 2. Open `MyShinnyFinderButton.app/Contents/Resources/Scripts/main.scpt` with Script Editor then you gonna know what to do.
 3. Open LTFinderButtons.sketch and draw your button.
 4. Export the `iconset` folders from Sketch.
