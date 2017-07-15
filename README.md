@@ -27,7 +27,12 @@ Download or `git clone` the buttons in a proper place. Hold on command button an
 5. Convert images into icns files one by one (e.g. `iconutil -c icns MyShinnyFinderButton.iconset`)
 6. Replace `MyShinnyFinderButton.app/Contents/Resources/droplet.icns` with your icns.
 7. Send a pull request.
+8. *Please write scripts in JavaScript or Swift, I'll reject AppleScript PRs ^_^.
 
+## Enhanced TerminalButton
+There's a fork which refined the main script of TerminalButton with Apple Script:
+https://github.com/ashfinal/LTFinderButtons
+It fixed some issues of TerminalFinderbutton. But I rejected the [PR](https://github.com/lexrus/LTFinderButtons/pull/17) since Apple Script was not my taste for a long time. Please have a try once you face any problem with TerminalButton.
 
 ## Contacts
 [Lex Tang](https://github.com/lexrus/) ([@lexrus on Twitter](https://twitter.com/lexrus/))
