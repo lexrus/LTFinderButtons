@@ -1,19 +1,19 @@
 ## LTFinderButtons
 My Finder buttons collection for macOS.
 
-![ltfinderbuttons 2x](https://cloud.githubusercontent.com/assets/219689/21391457/c4c27c62-c7c6-11e6-9271-860658873934.png)
+![ltfinderbuttons 2x](https://user-images.githubusercontent.com/219689/46614141-a4097580-cb47-11e8-8540-795da4cd07e0.png)
 
 ## Buttons
-- [x] Terminal
 - [x] iTerm2 (2.9+)
-- [x] TextMate
 - [x] Sublime Text 3
+- [x] VSCode
+- [x] Terminal
+- [x] TextWrangler
+- [x] TextMate
 - [x] Atom
 - [x] Brackets
 - [x] CotEditor
 - [x] BBEdit
-- [x] TextWrangler
-- [x] VSCode
 
 ## Usage
 Download or `git clone` the buttons in a proper place. Hold on command button and drag each one into your Finder toolbar.
