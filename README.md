@@ -8,7 +8,6 @@ My Finder buttons collection for macOS.
 - [x] Sublime Text 3
 - [x] VSCode
 - [x] Terminal
-- [x] TextWrangler
 - [x] TextMate
 - [x] Atom
 - [x] Brackets
@@ -28,6 +27,7 @@ Download or `git clone` the buttons in a proper place. Hold on command button an
 6. Replace `MyShinnyFinderButton.app/Contents/Resources/droplet.icns` with your icns.
 7. Send a pull request.
 8. *Please write scripts in JavaScript or Swift, I'll reject AppleScript PRs ^_^.
+
 
 ## Enhanced TerminalButton
 There's a fork which refined the main script of TerminalButton with Apple Script:
