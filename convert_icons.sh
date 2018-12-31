@@ -18,9 +18,9 @@ iconutil -c icns -o DarkiTerm2FinderButton.app/Contents/Resources/applet.icns tm
 iconutil -c icns -o DarkSublimeTextFinderButton.app/Contents/Resources/applet.icns tmp/DarkSublimeTextButton.iconset
 iconutil -c icns -o DarkVSCodeFinderButton.app/Contents/Resources/applet.icns tmp/DarkVSCodeButton.iconset
 iconutil -c icns -o DarkBBEditFinderButton.app/Contents/Resources/applet.icns tmp/DarkBBEditButton.iconset
+iconutil -c icns -o DarkAtomFinderButton.app/Contents/Resources/applet.icns tmp/DarkAtomButton.iconset
 
 #iconutil -c icns -o DarkiTerminalFinderButton.app/Contents/Resources/applet.icns tmp/DarkCommandButton.iconset
-#iconutil -c icns -o DarkAtomFinderButton.app/Contents/Resources/applet.icns tmp/DarkAtomButton.iconset
 #iconutil -c icns -o DarkBracketsFinderButton.app/Contents/Resources/applet.icns tmp/DarkBracketsButton.iconset
 #iconutil -c icns -o DarkCopyFinderButton.app/Contents/Resources/applet.icns tmp/DarkCopyPathButton.iconset
 #iconutil -c icns -o DarkCotEditorFinderButton.app/Contents/Resources/applet.icns tmp/DarkCotEditorButton.iconset
