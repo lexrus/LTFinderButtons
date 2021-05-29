@@ -1,6 +1,9 @@
 ## LTFinderButtons
 My Finder buttons collection for macOS.
 
+![language](https://img.shields.io/badge/Language-JavaScript-blueviolet)
+![os](https://img.shields.io/badge/OS%20Compatibility-macOS%20Big%20Sur-blue)
+
 > These buttons are built with ScriptEditor. If you'd prefer a native alternative, checkout my Finder extension app, SwiftyMenu:
 > https://apps.apple.com/app/swiftymenu/id1567748223
 > 
