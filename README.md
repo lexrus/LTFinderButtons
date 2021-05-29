@@ -1,6 +1,11 @@
 ## LTFinderButtons
 My Finder buttons collection for macOS.
 
+> These buttons are built with ScriptEditor. If you'd prefer a native alternative, checkout my Finder extension app, SwiftyMenu:
+> https://apps.apple.com/app/swiftymenu/id1567748223
+> 
+> [<img src="https://cloud.githubusercontent.com/assets/219689/5575342/963e0ee8-9013-11e4-8091-7ece67d64729.png" width="135" height="40" alt="AppStore"/>](https://apps.apple.com/app/swiftymenu/id1567748223)
+
 ![ltfinderbuttons 2x](https://user-images.githubusercontent.com/219689/46614141-a4097580-cb47-11e8-8540-795da4cd07e0.png)
 
 ## Buttons
